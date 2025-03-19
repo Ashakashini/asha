@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@model EmailSending.Models.Contact; //importing model
+<div class="text-center">
+    <form asp-controller="Home" asp-action="Index" method="post">
+        <fieldset >
+            <legend>CONTACT US</legend>
+            <div class="form-floating">
+                <input asp-for="To" class="form-control"/>
+                <label asp-for="To" class="form-label"></label>
+                <span asp-validation-for="To" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-floating">
+                <input asp-for="From" class="form-control" />
+                <label asp-for="From" class="form-label"></label>
+                <span asp-validation-for="From" class="text-danger"></span>
+            </div> 
+            <br /> 
+            <div class="form-floating">
+                <input asp-for="Subject" class="form-control" />
+                <label asp-for="Subject" class="form-label"></label>
+                <span asp-validation-for="Subject" class="text-danger"></span>
+            </div>
+            <br />
+            <div class="form-floating">
+                <input asp-for="Body" class="form-control" />
+                <label asp-for="Body" class="form-label"></label>
+                <span asp-validation-for="Body" class="text-danger"></span>
+            </div>
+            <br />
+            <input type="submit"/>
+            <br/>
+        </fieldset>
+    </form>
+</div>
