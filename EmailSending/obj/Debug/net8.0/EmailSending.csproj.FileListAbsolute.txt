@@ -35,3 +35,4 @@ C:\Users\Asha\source\repos\EmailSending\EmailSending\obj\Debug\net8.0\refint\Ema
 C:\Users\Asha\source\repos\EmailSending\EmailSending\obj\Debug\net8.0\EmailSending.pdb
 C:\Users\Asha\source\repos\EmailSending\EmailSending\obj\Debug\net8.0\EmailSending.genruntimeconfig.cache
 C:\Users\Asha\source\repos\EmailSending\EmailSending\obj\Debug\net8.0\ref\EmailSending.dll
+C:\Users\Asha\source\repos\EmailSending\EmailSending\obj\Debug\net8.0\EmailSending.sourcelink.json

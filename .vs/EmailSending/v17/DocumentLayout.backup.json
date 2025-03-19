@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "EmailSending\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Asha\\source\\repos\\EmailSending\\EmailSending\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EmailSending\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T05:24:03.897Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "EmailSending\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-01T05:15:07.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-01T05:15:07.438Z"
             },
             {
               "$type": "Document",
